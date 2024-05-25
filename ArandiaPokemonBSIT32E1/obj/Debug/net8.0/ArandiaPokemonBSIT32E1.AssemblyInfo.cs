@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArandiaPokemonBSIT32E1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1907b7d534fe4ce66fb96520309aa4aba7944eaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71ce5c437c1fdc42b7516739639baa5b5a78a970")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArandiaPokemonBSIT32E1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArandiaPokemonBSIT32E1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

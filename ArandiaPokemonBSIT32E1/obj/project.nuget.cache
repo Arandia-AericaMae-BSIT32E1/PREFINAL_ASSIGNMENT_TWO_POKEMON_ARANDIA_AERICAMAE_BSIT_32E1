@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+mb2VEYeeNyZeNfnkbTOlwaWavHQHSzEMTaIJ9Nw5+2aI8dadFiX+wLqF/NW6m9z4sTxOoEc7+pdmhLqgXa5Wg==",
+  "dgSpecHash": "4pe7SMUVh38T7GbwU6NX04ykfG2oxWQOQat1bCmqSHKa46BzYEID6ZGugQ5LV2hMeu2KTlL1Kv+1eLgUT3jEug==",
   "success": true,
   "projectFilePath": "C:\\Users\\Crist\\OneDrive\\Documents\\PREFINALS_ASSIGNMENT_ARANDIA_AERICAMAE_BSIT32E1\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\ArandiaPokemonBSIT32E1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Crist\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\Crist\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Crist\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Crist\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\Crist\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\Crist\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",

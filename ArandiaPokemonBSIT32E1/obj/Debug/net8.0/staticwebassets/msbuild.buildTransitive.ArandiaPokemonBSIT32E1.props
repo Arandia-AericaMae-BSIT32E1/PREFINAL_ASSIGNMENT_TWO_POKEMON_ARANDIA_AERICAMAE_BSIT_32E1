@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ArandiaPokemonBSIT32E1.props" />
+</Project>

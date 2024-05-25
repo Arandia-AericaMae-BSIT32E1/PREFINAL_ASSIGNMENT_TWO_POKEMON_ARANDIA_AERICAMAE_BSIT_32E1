@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\ArandiaPokemonBSIT32E1.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Crist\\OneDrive\\Documents\\Github\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\wwwroot\\Images\\Pikachu Wallpapers HD.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Pikachu Wallpapers HD.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Crist\\OneDrive\\Documents\\Github\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\wwwroot\\Images\\pokemon3.jpg",
+      "PackagePath": "staticwebassets\\Images\\pokemon3.jpg"
+    },
+    {
       "Id": "C:\\Users\\Crist\\OneDrive\\Documents\\Github\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

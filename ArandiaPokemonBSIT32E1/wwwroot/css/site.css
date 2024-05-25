@@ -18,5 +18,9 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-image: url('../Images/pokemon3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }

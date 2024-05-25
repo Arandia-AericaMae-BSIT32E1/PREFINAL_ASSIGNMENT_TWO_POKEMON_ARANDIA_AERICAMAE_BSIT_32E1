@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4pe7SMUVh38T7GbwU6NX04ykfG2oxWQOQat1bCmqSHKa46BzYEID6ZGugQ5LV2hMeu2KTlL1Kv+1eLgUT3jEug==",
+  "dgSpecHash": "XqJKye1TLxYHwUP7UGjpsTbesmif6yefyjdOMNjMQl9DAxzO816I7GwbOUMrK9MdbcHPRa3dhoXEr9MDBHzOUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Crist\\OneDrive\\Documents\\PREFINALS_ASSIGNMENT_ARANDIA_AERICAMAE_BSIT32E1\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\ArandiaPokemonBSIT32E1.csproj",
+  "projectFilePath": "C:\\Users\\Crist\\OneDrive\\Documents\\Github\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\ArandiaPokemonBSIT32E1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Crist\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\Crist\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Crist\\OneDrive\\Documents\\PREFINALS_ASSIGNMENT_ARANDIA_AERICAMAE_BSIT32E1\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Crist\\OneDrive\\Documents\\Github\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE96A0D-8310-49A8-A1FD-5F74CEC25330}|ArandiaPokemonBSIT32E1.csproj|c:\\users\\crist\\onedrive\\documents\\github\\prefinal_assignment_two_pokemon_arandia_aericamae_bsit_32e1\\arandiapokemonbsit32e1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ABE96A0D-8310-49A8-A1FD-5F74CEC25330}|ArandiaPokemonBSIT32E1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Crist\\OneDrive\\Documents\\Github\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Crist\\OneDrive\\Documents\\Github\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-25T17:46:55.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

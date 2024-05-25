@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Crist\\OneDrive\\Documents\\PREFINALS_ASSIGNMENT_ARANDIA_AERICAMAE_BSIT32E1\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\ArandiaPokemonBSIT32E1.csproj": {}
+    "C:\\Users\\Crist\\OneDrive\\Documents\\Github\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\ArandiaPokemonBSIT32E1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Crist\\OneDrive\\Documents\\PREFINALS_ASSIGNMENT_ARANDIA_AERICAMAE_BSIT32E1\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\ArandiaPokemonBSIT32E1.csproj": {
+    "C:\\Users\\Crist\\OneDrive\\Documents\\Github\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\ArandiaPokemonBSIT32E1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Crist\\OneDrive\\Documents\\PREFINALS_ASSIGNMENT_ARANDIA_AERICAMAE_BSIT32E1\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\ArandiaPokemonBSIT32E1.csproj",
+        "projectUniqueName": "C:\\Users\\Crist\\OneDrive\\Documents\\Github\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\ArandiaPokemonBSIT32E1.csproj",
         "projectName": "ArandiaPokemonBSIT32E1",
-        "projectPath": "C:\\Users\\Crist\\OneDrive\\Documents\\PREFINALS_ASSIGNMENT_ARANDIA_AERICAMAE_BSIT32E1\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\ArandiaPokemonBSIT32E1.csproj",
+        "projectPath": "C:\\Users\\Crist\\OneDrive\\Documents\\Github\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\ArandiaPokemonBSIT32E1.csproj",
         "packagesPath": "C:\\Users\\Crist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Crist\\OneDrive\\Documents\\PREFINALS_ASSIGNMENT_ARANDIA_AERICAMAE_BSIT32E1\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\obj\\",
+        "outputPath": "C:\\Users\\Crist\\OneDrive\\Documents\\Github\\PREFINAL_ASSIGNMENT_TWO_POKEMON_ARANDIA_AERICAMAE_BSIT_32E1\\ArandiaPokemonBSIT32E1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
